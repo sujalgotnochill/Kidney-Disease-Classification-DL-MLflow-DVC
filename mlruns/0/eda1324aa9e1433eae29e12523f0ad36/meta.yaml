@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Kidney-Disease-Classification-DL-MLflow-DVC/mlruns/0/eda1324aa9e1433eae29e12523f0ad36/artifacts
+end_time: 1743020854394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eda1324aa9e1433eae29e12523f0ad36
+run_name: casual-colt-395
+run_uuid: eda1324aa9e1433eae29e12523f0ad36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743020847595
+status: 4
+tags: []
+user_id: HP
