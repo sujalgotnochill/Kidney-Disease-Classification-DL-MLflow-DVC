@@ -1393,3 +1393,45 @@ TypeError: Object of type float32 is not JSON serializable
 [2025-04-11 04:29:33,458: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 04:29:33] "POST /predict HTTP/1.1" 200 -]
 [2025-04-11 04:29:57,846: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 04:29:57] "POST /predict HTTP/1.1" 200 -]
 [2025-04-11 04:30:07,881: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 04:30:07] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:56:25,081: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2025-04-11 15:56:25,082: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-11 15:56:28,720: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:56:28] "GET / HTTP/1.1" 200 -]
+[2025-04-11 15:56:28,941: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:56:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-04-11 15:57:06,907: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:57:06] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:57:19,333: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:57:19] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:58:13,366: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:58:13] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:58:24,855: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:58:24] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:58:31,259: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:58:31] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:58:59,129: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:58:59] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:59:07,794: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:59:07] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:59:15,914: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:59:15] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:59:25,996: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:59:25] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:59:36,308: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:59:36] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:59:47,725: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:59:47] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 15:59:59,563: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 15:59:59] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 19:54:09,482: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2025-04-11 19:54:09,483: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-11 19:54:11,414: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 19:54:11] "GET / HTTP/1.1" 200 -]
+[2025-04-11 19:54:11,561: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 19:54:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-04-11 19:54:29,757: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 19:54:29] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 19:54:38,833: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 19:54:38] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 19:54:45,148: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 19:54:45] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 19:54:51,349: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 19:54:51] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 20:01:03,955: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2025-04-11 20:01:03,956: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-11 20:01:07,076: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:07] "GET / HTTP/1.1" 200 -]
+[2025-04-11 20:01:10,244: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:10] "GET / HTTP/1.1" 200 -]
+[2025-04-11 20:01:10,466: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:10] "GET / HTTP/1.1" 200 -]
+[2025-04-11 20:01:17,904: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:17] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 20:01:25,571: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:25] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 20:01:32,279: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:32] "POST /predict HTTP/1.1" 200 -]
+[2025-04-11 20:01:39,916: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:39] "POST /predict HTTP/1.1" 200 -]
