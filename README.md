@@ -38,3 +38,25 @@ conda activate cnncls
 ```bash
 pip install -r requirements.txt
 ```
+
+### STEP 03- Train the model (Edit params.yaml)
+```bash
+python main.py
+```
+
+### STEP 04- Run the app
+```bash
+python app.py
+```
+
+### To use DVC
+
+```bash
+dvc init
+```
+```bash
+dvc reppro
+```
+```bash
+dvc dag
+```

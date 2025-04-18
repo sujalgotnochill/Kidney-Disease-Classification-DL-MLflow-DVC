@@ -1435,3 +1435,42 @@ TypeError: Object of type float32 is not JSON serializable
 [2025-04-11 20:01:25,571: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:25] "POST /predict HTTP/1.1" 200 -]
 [2025-04-11 20:01:32,279: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:32] "POST /predict HTTP/1.1" 200 -]
 [2025-04-11 20:01:39,916: INFO: _internal: 127.0.0.1 - - [11/Apr/2025 20:01:39] "POST /predict HTTP/1.1" 200 -]
+[2025-04-12 13:01:04,635: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2025-04-12 13:01:04,637: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-12 13:01:22,563: INFO: _internal: 127.0.0.1 - - [12/Apr/2025 13:01:22] "GET / HTTP/1.1" 200 -]
+[2025-04-12 13:01:22,692: INFO: _internal: 127.0.0.1 - - [12/Apr/2025 13:01:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-04-12 13:01:30,884: INFO: _internal: 127.0.0.1 - - [12/Apr/2025 13:01:30] "POST /predict HTTP/1.1" 200 -]
+[2025-04-12 14:20:32,751: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://127.0.0.1:8080]
+[2025-04-12 14:20:32,758: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-12 14:20:34,954: INFO: _internal: 127.0.0.1 - - [12/Apr/2025 14:20:34] "GET / HTTP/1.1" 200 -]
+[2025-04-12 14:20:35,465: INFO: _internal: 127.0.0.1 - - [12/Apr/2025 14:20:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-04-12 14:20:59,643: INFO: _internal: 127.0.0.1 - - [12/Apr/2025 14:20:59] "POST /predict HTTP/1.1" 200 -]
+[2025-04-12 14:21:15,158: INFO: _internal: 127.0.0.1 - - [12/Apr/2025 14:21:15] "POST /predict HTTP/1.1" 200 -]
+[2025-04-12 14:21:24,398: INFO: _internal: 127.0.0.1 - - [12/Apr/2025 14:21:24] "POST /predict HTTP/1.1" 200 -]
+[2025-04-12 14:21:31,767: INFO: _internal: 127.0.0.1 - - [12/Apr/2025 14:21:31] "POST /predict HTTP/1.1" 200 -]
+[2025-04-16 13:04:10,951: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2025-04-16 13:04:10,951: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-16 13:04:44,255: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.20.10.3:8080]
+[2025-04-16 13:04:44,255: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-04-16 13:04:50,034: INFO: _internal: 127.0.0.1 - - [16/Apr/2025 13:04:50] "GET / HTTP/1.1" 200 -]
+[2025-04-16 13:04:50,473: INFO: _internal: 127.0.0.1 - - [16/Apr/2025 13:04:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-04-16 13:08:17,774: INFO: _internal: 127.0.0.1 - - [16/Apr/2025 13:08:17] "POST /predict HTTP/1.1" 200 -]
+[2025-04-16 13:08:26,694: INFO: _internal: 127.0.0.1 - - [16/Apr/2025 13:08:26] "POST /predict HTTP/1.1" 200 -]
+[2025-04-16 13:08:34,324: INFO: _internal: 127.0.0.1 - - [16/Apr/2025 13:08:34] "POST /predict HTTP/1.1" 200 -]
+[2025-04-16 13:08:42,996: INFO: _internal: 127.0.0.1 - - [16/Apr/2025 13:08:42] "POST /predict HTTP/1.1" 200 -]
+[2025-04-16 13:09:15,313: INFO: _internal: 127.0.0.1 - - [16/Apr/2025 13:09:15] "POST /predict HTTP/1.1" 200 -]
+[2025-04-16 13:09:23,540: INFO: _internal: 127.0.0.1 - - [16/Apr/2025 13:09:23] "POST /predict HTTP/1.1" 200 -]
+[2025-04-16 13:09:29,128: INFO: _internal: 127.0.0.1 - - [16/Apr/2025 13:09:29] "POST /predict HTTP/1.1" 200 -]
+[2025-04-18 12:57:31,277: INFO: _internal: 127.0.0.1 - - [18/Apr/2025 12:57:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
