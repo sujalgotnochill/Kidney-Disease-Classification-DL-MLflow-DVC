@@ -55,7 +55,7 @@ python app.py
 dvc init
 ```
 ```bash
-dvc reppro
+dvc repro
 ```
 ```bash
 dvc dag
